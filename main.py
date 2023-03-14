@@ -9,7 +9,7 @@ from discord import ui;
 intents = discord.Intents.default()
 intents.message_content = True
 client = commands.Bot(command_prefix='.',intents=intents)
-token = "MTA4NTA4NzM5OTA4MTY3NjgwMA.G5HQ70.F-UdBm9201av8Mcd4sw2MwoICA-TxBMSIH7GOQ";
+token = "xx";
 
 #==========================HELLO==========================
 
